@@ -1,7 +1,7 @@
-from qiskit import QuantumCircuit, transpile
-from qiskit.providers import BaseBackend
-from qiskit.result import Result
-from qiskit.providers.models import BackendProperties, BackendConfiguration
+# from qiskit import QuantumCircuit, transpile
+# from qiskit.providers import BaseBackend
+# from qiskit.result import Result
+# from qiskit.providers.models import BackendProperties, BackendConfiguration
 import numpy as np
 import time
 
